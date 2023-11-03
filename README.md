@@ -1,4 +1,4 @@
-Creating a Software Requirements Specification (SRS) for your To-Do planner project using React and Spring Boot is a critical first step. Here's an outline to help you get started:
+To-Do planner
 
 1. Introduction:
    - Provide an overview of the project.
